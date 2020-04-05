@@ -14,9 +14,10 @@ A more convenient way to test Stranghogg vulnerability
 ![image](./3.png)
 7. Click the app which is going to be tested. 
 
-![image](./4.png)
+ ![image](./4.png)
 
 8. If "YOU HABE BEEN HACKED" appears, then it means the Stranghogg vulnerability exists in the app you tested. 
 Otherwise, the Strandhogg vulnerability doesn't exist.
+
 ![image](./5.png)
 
