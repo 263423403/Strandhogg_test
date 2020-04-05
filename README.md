@@ -11,7 +11,7 @@ A more convenient way to test Stranghogg vulnerability
 ![image](./2.png)
 5. Install the app you just downloaded.
 6. Enter the app and then click the Snatch button. The app will run in background.
-![image](./3.jpg)
+![image](./3.png)
 7. Click the app which is going to be tested. 
 ![image](./4.jpg)
 8. If "YOU HABE BEEN HACKED" appears, then it means the Stranghogg vulnerability exists in the app you tested. 
